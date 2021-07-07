@@ -34,9 +34,8 @@ Stack
 
 --------------------------------------------------
 구현예시
-    
-* [Array기반 스택 코드] (스택(Stack)/ArrayStack.cpp)
-* [Linked List기반 스택 코드] (스택(Stack)/LinkedListStack.cpp)
+* [Array기반 스택 코드](스택(Stack)/ArrayStack.cpp)  
+* [Linked List기반 스택 코드](스택(Stack)/LinkedListStack.cpp)
 ----------------------------------------------------
 
 문제풀이
